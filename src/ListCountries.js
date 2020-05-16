@@ -45,6 +45,8 @@ class ListCountries extends Component {
       : selectedCountries.filter((c) => (
         c.country.toLowerCase().includes(query.toLowerCase())
       ))
+    
+    console.log(selectedCountries)
 
     return (
       <Col className='main'>
@@ -71,8 +73,8 @@ class ListCountries extends Component {
                 <th>Confirmed</th>
                 <th>Deaths</th>
                 <th>Recovered</th>
-                <th>Cases Today</th>
-                <th>Deaths Today</th>
+                <th>New Cases</th>
+                <th>New Deaths</th>
               </tr>
             </thead>
             <tbody>
