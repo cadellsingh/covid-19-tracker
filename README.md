@@ -1,3 +1,3 @@
+Simple covid-19 tracker made with react and react-bootstrap
 
-# covid-19-tracker
-# covid-19-tracker
+Live - https://cadellsingh-covid-19-tracker.netlify.app

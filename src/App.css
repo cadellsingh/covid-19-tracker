@@ -147,6 +147,12 @@
 
 @media only screen and (max-width: 380px) {
   .link {
-    font-size: 14px;
+    font-size: 12px;
+  }
+}
+
+@media only screen and (max-width: 314px) {
+  .link {
+    font-size: 10px;
   }
 }
