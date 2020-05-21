@@ -46,8 +46,6 @@ class ListCountries extends Component {
         c.country.toLowerCase().includes(query.toLowerCase())
       ))
     
-    console.log(selectedCountries)
-
     return (
       <Col className='main'>
         <Navbar expand='lg' variant='dark' bg='dark'>
