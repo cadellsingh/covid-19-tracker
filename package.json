@@ -8,7 +8,7 @@
     "@testing-library/user-event": "^7.1.2",
     "bootstrap": "^4.4.1",
     "escape-string-regexp": "^4.0.0",
-    "jquery": "^1.12.4",
+    "jquery": "^3.5.0",
     "netlify-cli": "^2.52.0",
     "react": "^16.13.1",
     "react-bootstrap": "^1.0.1",
