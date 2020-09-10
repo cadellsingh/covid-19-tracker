@@ -1,11 +1,8 @@
-import React from 'react'
-import './App.css'
-import SidebarConts from './SidebarConts'
+import React from "react";
+import SideBar from "./SideBar";
 
 const App = () => {
-  return (
-    <SidebarConts />
-  )
-}
+  return <SideBar />;
+};
 
-export default App
+export default App;
