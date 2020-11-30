@@ -10,6 +10,7 @@ You can view it here - [Covid-19 Tracker](https://cadellsingh-covid-19-tracker.n
 
 ## Tech Stack
 
+- JavaScript ES6
 - React
 - React-Bootstrap
 - Styled Components
