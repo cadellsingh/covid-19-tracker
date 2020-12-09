@@ -17,13 +17,24 @@ You can view it here - [Covid-19 Tracker](https://cadellsingh-covid-19-tracker.n
 ## Installation
 1. Clone the repo
 
->git clone https://github.com/cadellsingh/covid-19-tracker.git
+   ```
+   git clone https://github.com/cadellsingh/covid-19-tracker.git
+   ```
 
 2. Change working directory
-> cd covid-19-tracker/
+
+   ```
+   cd covid-19-tracker/
+   ```
 
 3. Install any dependencies
-> yarn install
+
+   ```
+   yarn install
+   ```
 
 4. Run application
-> yarn start
+
+   ```
+   yarn start
+   ```
