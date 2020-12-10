@@ -8,7 +8,7 @@ Web app that tracks Covid-19 cases all around the world.
 
 You can view it here - [Covid-19 Tracker](https://cadellsingh-covid-19-tracker.netlify.app)
 
-## Tech Stack
+## Made With
 
 - JavaScript ES6
 - React
