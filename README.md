@@ -1,5 +1,7 @@
 # Covid Tracker
 
+![](public/Screenshot%202020-12-13%20at%209.40.29%20PM.png)
+
 ## General Info
 
 Web app that tracks Covid-19 cases all around the world.
