@@ -42,6 +42,7 @@ const TopHeader = (props) => {
       </StyledNav>
       <StyledForm inline>
         <FormControl
+          aria-label="Search Country"
           type="text"
           placeholder="Search Country"
           value={query}
