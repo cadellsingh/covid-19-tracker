@@ -1,3 +1,7 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/cadellsingh/covid-19-tracker)
+
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/cadellsingh/covid-19-tracker)
+
 # Covid Tracker
 
 ![](public/Screenshot%202020-12-13%20at%209.40.29%20PM.png)
